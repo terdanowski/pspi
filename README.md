@@ -19,6 +19,7 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 1. Sudomir-Gordon, Milena
 1. Mokrzycki, Rafał
 2. [Snarski, Lech](http://lsnarski.github.io/)
+3. [Erdanowski, Tomasz](http://terdanowski.github.io/)
 
 
 ### Linki

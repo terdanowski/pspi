@@ -10,6 +10,8 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 1. [Erdanowski, Tomasz](http://terdanowski.github.io/)
     - [README.md](https://github.com/terdanowski/studia-notatki/blob/master/Readme.md), 
     [README.asc](https://github.com/terdanowski/studia-notatki/blob/master/README.asc)
+    - [Audi 80 B2](http://slides.com/terdanowski/deck#/)
+    - [Moje notatki z Programowania](https://github.com/terdanowski/studia-notatki/blob/master/Programowanie.md)
 1. [Gisko, Alicja](http://agisko.github.io/)
   - [Markdown doc](https://github.com/agisko/agisko.github.io/blob/master/herbaty/herbaty.md)
   - [ASCII doc](https://github.com/agisko/agisko.github.io/blob/master/zadanie.adoc)
